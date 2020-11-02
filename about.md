@@ -3,7 +3,7 @@ layout: page
 title: "🐷💗🐒" 
 ---
 
-<h1 text-align="center">关于<img src="/assets/img/universe.png" width="50px" height="50px"></h1>
+<h1 style="text-align:center">关于<img src="/assets/img/universe.png" width="50px" height="50px"></h1>
 
 <br>
 
