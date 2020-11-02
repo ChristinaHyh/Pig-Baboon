@@ -11,14 +11,15 @@ excerpt: ""
 
 ---
 
-<h2 style="text-align:center">
-《假如实验欺骗了你》</h2>
+<h3 style="text-align:center">
+《假如实验欺骗了你》</h3>
+
 <br>
 <h5 style="text-align:center">作者：🐒</h5>
 
 <br>
 
-<h3 style="text-align:center">
+<h6 style="text-align:center">
 假如实验欺骗了你
 <br>
 <br>
@@ -40,7 +41,7 @@ excerpt: ""
 一瓶都是废液，一瓶都将会过膜；
 <br>
 <br>
-而那过去了的，就会成为亲切的沼液。</h3>
+而那过去了的，就会成为亲切的沼液。</h6>
 
 
 
