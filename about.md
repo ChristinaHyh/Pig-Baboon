@@ -9,11 +9,11 @@ title: "🐷💗🐒"
 
 <div>哟！欢迎来到</div>
 <br>
-<div>无可替代的小宇宙&nbsp<img src="/assets/img/galaxy.png" width="50px" height="50px" style="display: inline-block; vertical-align: middle;"></div>
+<div>无可替代的小宇宙&nbsp;<img src="/assets/img/galaxy.png" width="50px" height="50px" style="display: inline-block; vertical-align: middle;"></div>
 
 <br>
 
-<div>无与伦比的小星球&nbsp&nbsp<img src="/assets/img/planet.png" width="30px" height="30px" style="display: inline-block; vertical-align: middle;"></div>
+<div>无与伦比的小星球&nbsp;&nbsp;<img src="/assets/img/planet.png" width="30px" height="30px" style="display: inline-block; vertical-align: middle;"></div>
 
 <br>
 
