@@ -287,7 +287,7 @@ h1, h2, h3, h4, h5, h6 {
 /* 在文章中，应该还原 ul 和 ol 的样式 */
 .typo ul, .typo-ul {
     margin-left: 1.3em;
-    list-style: disc;
+   /* list-style: disc; */
 }
 
 .typo ol, .typo-ol {

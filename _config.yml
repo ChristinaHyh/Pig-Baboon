@@ -17,6 +17,7 @@ link:
 nav:
    Home: "/"
    List: "/list"
+   About: "/about"
 
    
 markdown: kramdown
