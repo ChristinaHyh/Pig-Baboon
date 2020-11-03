@@ -5,6 +5,8 @@ title: "🐷💗🐒"
 
 <h1 style="text-align:center">关于<img src="/assets/img/universe.png" width="50px" height="50px"></h1>
 
+---
+
 <br>
 
 <div>哟！欢迎来到</div>
