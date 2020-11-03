@@ -24,4 +24,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Hidden", name: "hidden", widget: "boolean", default: "false", required: false}
 
