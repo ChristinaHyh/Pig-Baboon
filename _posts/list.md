@@ -2,7 +2,6 @@
 layout: page
 title: "🐷🐒🌊" 
 permalink: list
-hidden: true
 ---
 
 ### 臭猪和傻狒的海螺🐷🐒🌊
