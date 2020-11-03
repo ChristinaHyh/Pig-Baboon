@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "🐷🐒🌊" 
-date: 2020-04-01
 permalink: list
 hidden: true
 ---
