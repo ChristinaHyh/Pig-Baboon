@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Excerpt", name: "excerpt", widget: "hidden", default: ""}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Author", name: "author", widget: "string", default: "🐷🐒", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
-    fields: # The fields each document in this collection have
+    fields: # The fields each document in this collection have· 
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
